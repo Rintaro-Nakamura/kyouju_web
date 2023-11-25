@@ -27,3 +27,9 @@ body {
 #logo {
     width:100%;
 }
+
+.footer {
+    background-color: #5aa1d4;
+    padding-top: 50pt;
+    padding-bottom: 50pt;
+}
