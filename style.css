@@ -16,3 +16,12 @@ body {
 .header {
     background-color: #5aa1d4;
 }
+
+.logo_container {
+    max-width: 500px;
+    margin: auto;
+}
+
+#logo {
+    width:100%;
+}
