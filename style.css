@@ -9,12 +9,14 @@ body {
 }
 
 .main {
-    width: 80%;
+    width: 50%;
     margin:auto;
 }
 
 .header {
     background-color: #5aa1d4;
+    padding-top: 350px;
+    padding-bottom: 350px;
 }
 
 .logo_container {
